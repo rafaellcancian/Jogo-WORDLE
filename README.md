@@ -1,2 +1,2 @@
 # Jogo-WORDLE
-Implementação do jogo WORDLE versão console
+Implementação do jogo WORDLE versão console.
